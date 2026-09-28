@@ -323,6 +323,13 @@
       }
     },
     {
+      "PK": "br-cota.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "br-p.vivoglobal.com",
       "action": {
         "do": 0,
@@ -673,7 +680,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.vivo.web.app",
+      "PK": "h4g3z1-native-vivo.web.app",
       "action": {
         "do": 0,
         "status": 1

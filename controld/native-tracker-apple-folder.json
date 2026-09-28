@@ -267,7 +267,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.apple.web.app",
+      "PK": "h4g3z1-native-apple.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -289,13 +289,6 @@
     },
     {
       "PK": "iadcontent.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "iadcontent-lb.apple.com.akadns.net",
       "action": {
         "do": 0,
         "status": 1

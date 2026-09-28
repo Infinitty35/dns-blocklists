@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 25 Sep 2026 22:03 UTC
-# Version: 2026.0925.2203.16
+# Last modified: 27 Sep 2026 20:30 UTC
+# Version: 2026.0927.2030.46
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 437
 #
@@ -446,4 +446,4 @@ local=/ad-instantpage-ttp2.tiktokv.eu.ttdns3.com/
 local=/analytics-ie.tiktokw.eu.ttdns3.com/
 local=/analytics-ttp2.tiktokw.eu.ttdns3.com/
 local=/ad-instantpage.tiktokv.us.ttdns4.com/
-local=/h4g3z1-native.tiktok.web.app/
+local=/h4g3z1-native-tiktok.web.app/

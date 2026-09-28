@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 25 Sep 2026 22:07 UTC
-# Version: 2026.0925.2207.29
+# Last modified: 27 Sep 2026 20:36 UTC
+# Version: 2026.0927.2036.18
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 487
 #
@@ -494,6 +494,6 @@
 *.dhfs-vn.oppomobile.com
 *.dhfsf.oppomobile.com
 *.sea-log-rcv.vansound.com
-*.h4g3z1-native.oppo-realme.web.app
+*.h4g3z1-native-oppo-realme.web.app
 *.finosfin.com
 *.hizonetech.com

@@ -316,6 +316,13 @@
       }
     },
     {
+      "PK": "aax-ott-sdk.amazon-adsystem.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "aax-ott-sdk.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -1289,7 +1296,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.amazon.web.app",
+      "PK": "h4g3z1-native-amazon.web.app",
       "action": {
         "do": 0,
         "status": 1

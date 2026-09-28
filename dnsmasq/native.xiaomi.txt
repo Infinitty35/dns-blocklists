@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 11 Sep 2026 22:04 UTC
-# Version: 2026.0911.2204.39
+# Last modified: 27 Sep 2026 20:37 UTC
+# Version: 2026.0927.2037.15
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 345
 #
@@ -153,7 +153,7 @@ local=/search.miui.com/
 local=/stat.miui.com/
 local=/testit.miui.com/
 local=/tracking.miui.com/
-local=/h4g3z1-native.xiaomi.web.app/
+local=/h4g3z1-native-xiaomi.web.app/
 local=/api.ads.xiaomi.com/
 local=/tracker.ai.xiaomi.com/
 local=/tracker-preview.ai.xiaomi.com/

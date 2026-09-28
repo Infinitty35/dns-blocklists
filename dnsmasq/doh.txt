@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 25 Sep 2026 09:15 UTC
-# Version: 2026.0925.0915.25
+# Last modified: 28 Sep 2026 09:24 UTC
+# Version: 2026.0928.0924.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3334
+# Number of entries: 3336
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -1047,6 +1047,7 @@ local=/adguard.ef67daisuki.club/
 local=/dns.efficientdocuments.com/
 local=/cloud.efreakbnc.net/
 local=/adguard.eischmann.cz/
+local=/dns.ekinao.com/
 local=/dd.elashri.net/
 local=/hole.elbschloss.xyz/
 local=/dns.electrotm.org/
@@ -3183,6 +3184,7 @@ local=/nsown.com/
 local=/ntwrkh.pro/
 local=/nwps.fi/
 local=/o1.lt/
+local=/obscuro.top/
 local=/oculta.me/
 local=/okado.online/
 local=/oowo.de/

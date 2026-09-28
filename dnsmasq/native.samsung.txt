@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 25 Sep 2026 22:09 UTC
-# Version: 2026.0925.2209.37
+# Last modified: 27 Sep 2026 20:38 UTC
+# Version: 2026.0927.2038.19
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 200
 #
@@ -200,7 +200,7 @@ local=/samsungturkey.api.useinsider.com/
 local=/samsunguk.api.useinsider.com/
 local=/samsungusa.api.useinsider.com/
 local=/samsungvn.api.useinsider.com/
-local=/h4g3z1-native.samsung.web.app/
+local=/h4g3z1-native-samsung.web.app/
 local=/moai-dev-samsung.com/
 local=/qmds-dev-samsung.com/
 local=/samsungacr.com/

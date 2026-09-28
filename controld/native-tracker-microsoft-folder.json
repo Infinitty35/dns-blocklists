@@ -1219,7 +1219,7 @@
       }
     },
     {
-      "PK": "h4g3z1-native.winoffice.web.app",
+      "PK": "h4g3z1-native-winoffice.web.app",
       "action": {
         "do": 0,
         "status": 1
@@ -2045,13 +2045,6 @@
       }
     },
     {
-      "PK": "prd-qlik-telemetry.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "preview.msn.com",
       "action": {
         "do": 0,
@@ -2354,13 +2347,6 @@
     },
     {
       "PK": "telemetry.microsoft.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "telemetry.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1

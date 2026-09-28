@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 25 Sep 2026 22:09 UTC
-# Version: 2026.0925.2209.37
+# Last modified: 27 Sep 2026 20:38 UTC
+# Version: 2026.0927.2038.19
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 200
 #
@@ -200,7 +200,7 @@
 *.samsunguk.api.useinsider.com
 *.samsungusa.api.useinsider.com
 *.samsungvn.api.useinsider.com
-*.h4g3z1-native.samsung.web.app
+*.h4g3z1-native-samsung.web.app
 *.moai-dev-samsung.com
 *.qmds-dev-samsung.com
 *.samsungacr.com

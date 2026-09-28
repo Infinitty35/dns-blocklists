@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 25 Sep 2026 22:07 UTC
-# Version: 2026.0925.2207.29
+# Last modified: 27 Sep 2026 20:36 UTC
+# Version: 2026.0927.2036.18
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 487
 #
@@ -494,6 +494,6 @@ local=/dhfs-th.oppomobile.com/
 local=/dhfs-vn.oppomobile.com/
 local=/dhfsf.oppomobile.com/
 local=/sea-log-rcv.vansound.com/
-local=/h4g3z1-native.oppo-realme.web.app/
+local=/h4g3z1-native-oppo-realme.web.app/
 local=/finosfin.com/
 local=/hizonetech.com/

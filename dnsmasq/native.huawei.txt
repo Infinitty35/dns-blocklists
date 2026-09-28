@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 11 Sep 2026 21:59 UTC
-# Version: 2026.0911.2159.03
+# Last modified: 27 Sep 2026 20:29 UTC
+# Version: 2026.0927.2029.45
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 135
 #
@@ -144,4 +144,4 @@ local=/nsp-logservice-weardevice-p51-drcn.obs.cn-north-2.myhuaweicloud.com/
 local=/nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru/
 local=/logserver.nzxcloud.cn/
 local=/logservice.vmall.com/
-local=/h4g3z1-native.huawei.web.app/
+local=/h4g3z1-native-huawei.web.app/

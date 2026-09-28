@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 20 Sep 2026 11:45 UTC
-# Version: 2026.0920.1145.21
+# Last modified: 27 Sep 2026 20:26 UTC
+# Version: 2026.0927.2026.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 109
+# Number of entries: 108
 #
 cstat.g.aaplimg.com
 diagassets.g.aaplimg.com
@@ -30,7 +30,6 @@ xp.v.aaplimg.com
 ab.apple.com.akadns.net
 diagassets-lb.apple.com.akadns.net
 diagnostics.apple.com.akadns.net
-iadcontent-lb.apple.com.akadns.net
 iadsdk.apple.com.akadns.net
 idiagnostics.apple.com.akadns.net
 iphonesubmissions.apple.com.akadns.net
@@ -116,6 +115,6 @@ metrics.icloud.com
 metrics.mzstatic.com
 marketing.services.apple
 beacon.shazam.com
-h4g3z1-native.apple.web.app
+h4g3z1-native-apple.web.app
 applemediaservices.com
 qwapi.com

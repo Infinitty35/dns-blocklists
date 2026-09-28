@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 25 Sep 2026 22:00 UTC
-# Version: 2026.0925.2200.33
+# Last modified: 27 Sep 2026 20:27 UTC
+# Version: 2026.0927.2027.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 371
+# Number of entries: 372
 #
 local=/3px.axp.amazon-adsystem.com/
 local=/aan.amazon.co.jp/
@@ -51,6 +51,7 @@ local=/aax-fe-sin.amazon-adsystem.com/
 local=/aax-fe.amazon-adsystem.com/
 local=/aax-gamma-us-east.axp.amazon-adsystem.com/
 local=/aax-ott-c2s.amazon-adsystem.com/
+local=/aax-ott-sdk.amazon-adsystem.amazon.com/
 local=/aax-ott-sdk.amazon-adsystem.com/
 local=/aax-ott.amazon-adsystem.amazon.com/
 local=/aax-ott.amazon-adsystem.com/
@@ -193,7 +194,7 @@ local=/fls-na.amazon.com.br/
 local=/fls-na.amazon.com.mx/
 local=/fls-na.amazon.com/
 local=/forester.a2z.com/
-local=/h4g3z1-native.amazon.web.app/
+local=/h4g3z1-native-amazon.web.app/
 local=/identity.browserapps.amazon.de/
 local=/imdb.amazon-adsystem.com/
 local=/insights.video.a2z.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 25 Sep 2026 22:04 UTC
-# Version: 2026.0925.2204.49
+# Last modified: 27 Sep 2026 20:33 UTC
+# Version: 2026.0927.2033.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 229
+# Number of entries: 230
 #
 local=/ae-ad-lgsmartad-com.aws-prd.net/
 local=/ae-rdx2-lgtvsdp-com.aws-prd.net/
@@ -80,6 +80,7 @@ local=/ee-rdx2-lgtvsdp-com.aws-prd.net/
 local=/eg-ad-lgsmartad-com.aws-prd.net/
 local=/eg-info-lgsmartad-com.aws-prd.net/
 local=/es-ad-lgsmartad-com.aws-prd.net/
+local=/es-info-lgsmartad-com.aws-prd.net/
 local=/et-ad-lgsmartad-com.aws-prd.net/
 local=/eu7-info-lgsmartad-com.aws-prd.net/
 local=/fi-ad-lgsmartad-com.aws-prd.net/
@@ -235,7 +236,7 @@ local=/videoads.lgtvcommon.com/
 local=/wiseconfig.lgtvcommon.com/
 local=/rdx2.lgtvsdp.com/
 local=/rdx2.nextlgsdp.com/
-local=/h4g3z1-native.lgwebos.web.app/
+local=/h4g3z1-native-lgwebos.web.app/
 local=/alphonso.tv/
 local=/lgads.tv/
 local=/lgsmartad.com/

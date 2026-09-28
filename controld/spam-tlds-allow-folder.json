@@ -5202,6 +5202,13 @@
       }
     },
     {
+      "PK": "realdeals.win",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "real.discount",
       "action": {
         "do": 1,
