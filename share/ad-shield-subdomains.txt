@@ -27,6 +27,7 @@ www.64786087.xyz
 www.78587924.xyz
 84302764.xyz
 www.84302764.xyz
+0.www.84302764.xyz
 stg.www.84302764.xyz
 0.stg.www.84302764.xyz
 1.stg.www.84302764.xyz
@@ -1193,6 +1194,7 @@ c.html-load.com
 8.c.html-load.com
 9.c.html-load.com
 0.v.c.html-load.com
+3.v.c.html-load.com
 6.v.c.html-load.com
 fb.html-load.com
 0.fb.html-load.com
@@ -1745,6 +1747,19 @@ pishrust.com
 7.pishrust.com
 8.pishrust.com
 9.pishrust.com
+bid.pleasedmad.com
+stg.bid.pleasedmad.com
+0.stg.bid.pleasedmad.com
+1.stg.bid.pleasedmad.com
+2.stg.bid.pleasedmad.com
+3.stg.bid.pleasedmad.com
+4.stg.bid.pleasedmad.com
+5.stg.bid.pleasedmad.com
+6.stg.bid.pleasedmad.com
+7.stg.bid.pleasedmad.com
+8.stg.bid.pleasedmad.com
+9.stg.bid.pleasedmad.com
+3.v.stg.bid.pleasedmad.com
 poorlylift.com
 0.poorlylift.com
 1.poorlylift.com
@@ -2700,6 +2715,7 @@ loader.worldhistory.org
 8.loader.worldhistory.org
 9.loader.worldhistory.org
 worstloftily.com
+tuba.worstloftily.com
 www.worstloftily.com
 loader.wort-suchen.de
 0.loader.wort-suchen.de

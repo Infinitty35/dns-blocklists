@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 28 Sep 2026 07:38 UTC
-# Version: 2026.0928.0738.19
+# Last modified: 29 Sep 2026 07:36 UTC
+# Version: 2026.0929.0736.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 50716
+# Number of entries: 50725
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/0db65504c2.012dadaa06.com/
@@ -343,9 +343,6 @@ local=/sc.banqueoutkill.com/
 local=/darian.bantengan.xyz/
 local=/uc.barbelfaldfee.com/
 local=/do.barmfellists.com/
-local=/chiyouranai.base.shop/
-local=/tokujiro.base.shop/
-local=/uranai1111.base.shop/
 local=/ah.basothomug.com/
 local=/bv.basquedbeloam.com/
 local=/ck.bastardzingaro.com/
@@ -660,6 +657,7 @@ local=/guardiansofthegreenproject.co.in/
 local=/healtheweb.co.uk/
 local=/honeyline.co.jp/
 local=/horse-racing-affiliate-program.co.uk/
+local=/ikeymate.co.nz/
 local=/insolvency-development.co.uk/
 local=/interworksmedia.co.kr/
 local=/inuxu.co.in/
@@ -7890,6 +7888,7 @@ local=/5971.cc/
 local=/5977.cc/
 local=/5978ef8c9a.com/
 local=/597hx.com/
+local=/59na.com/
 local=/5a135sub36pv.top/
 local=/5a5751fd6a.com/
 local=/5advertise.com/
@@ -12433,6 +12432,7 @@ local=/bartonpriority.com/
 local=/bartramagynous.com/
 local=/barytemarkup.com/
 local=/barytethynnid.com/
+local=/base.shop/
 local=/baseballletters.com/
 local=/basednewsarticle.com/
 local=/basejudgementquizmaster.com/
@@ -13303,6 +13303,7 @@ local=/bjxusfnfstjae.online/
 local=/bjydvoaqmxscacu.com/
 local=/bjzabeeqjktyy.website/
 local=/bkest.sa/
+local=/bkgdcckw.cfd/
 local=/bkjgqyasbalgk.website/
 local=/bkjhqkohal.com/
 local=/bklhutjteyhiye.com/
@@ -19132,6 +19133,7 @@ local=/dokopka.icu/
 local=/dokscnultmj.com/
 local=/dolatiaschan.com/
 local=/dolcqtiqbxoeq.com/
+local=/doledishinflict.com/
 local=/dolefulbailjoy.com/
 local=/dolekaraokeoversleep.com/
 local=/dollardelta.com/
@@ -19443,6 +19445,7 @@ local=/drewtherunner.com/
 local=/dreycusps.com/
 local=/dreyeli.info/
 local=/drface360.com/
+local=/dribbleoutscorepebble.com/
 local=/drient.xyz/
 local=/driftpizza.com/
 local=/drillcompensate.com/
@@ -26652,6 +26655,7 @@ local=/illusiongaietytedious.com/
 local=/illusivecleavepsychopath.com/
 local=/illustrategoggle.com/
 local=/illustrationcompute.com/
+local=/illustrationyoursstair.com/
 local=/illustrious-consideration.com/
 local=/illustriousarrival.com/
 local=/illustrlousdate.com/
@@ -29089,6 +29093,7 @@ local=/koaptoah.net/
 local=/koaptouw.com/
 local=/koasoophoapsoot.net/
 local=/koawuraisi.net/
+local=/koboldcpp.com/
 local=/kobolstudios.com/
 local=/kocairdo.net/
 local=/kochbvplt.com/
@@ -32427,6 +32432,7 @@ local=/monkeyarmiesdisturbing.com/
 local=/monkeybroker.net/
 local=/monkeysloveyou.com/
 local=/monkishkecked.com/
+local=/monoclick.top/
 local=/monogonzalez.com/
 local=/monorailnailtributary.com/
 local=/monsoonlassi.com/
@@ -33008,6 +33014,7 @@ local=/mysterious-emotion.com/
 local=/mysteriousprocess.com/
 local=/mysteriousseat.com/
 local=/mystery-forest.com/
+local=/mysticaladoptionocean.com/
 local=/mysticalbailey.com/
 local=/mysticechohaven.com/
 local=/mysticentangledconfine.com/
@@ -44503,6 +44510,7 @@ local=/thinksuggest.org/
 local=/thinkwonders.shop/
 local=/thinpeace.com/
 local=/thipseedsy.net/
+local=/third-party.com/
 local=/third-tracking.com/
 local=/thirdbiography.com/
 local=/thirdgas.com/
@@ -47646,6 +47654,7 @@ local=/vvllrb.top/
 local=/vvluck.com/
 local=/vvolnzdglprvf.store/
 local=/vvolyzmoborp.com/
+local=/vvpyzrpwqjnnve.com/
 local=/vvtprtjcnshiwj.com/
 local=/vvvex.com/
 local=/vw66i.top/
