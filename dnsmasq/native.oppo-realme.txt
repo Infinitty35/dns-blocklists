@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 27 Sep 2026 20:36 UTC
-# Version: 2026.0927.2036.18
+# Last modified: 30 Sep 2026 04:50 UTC
+# Version: 2026.0930.0450.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 487
+# Number of entries: 488
 #
 local=/classify-app-eu.allawnos.com/
 local=/classify-app-in.allawnos.com/
@@ -263,6 +263,7 @@ local=/userprofile.push.heytapmobi.com/
 local=/api-id.theme.heytapmobi.com/
 local=/adm-smc-cn.heytapmobi.com/
 local=/ads.heytapmobi.com/
+local=/apisnd.heytapmobi.com/
 local=/dc-dragate-cn.heytapmobi.com/
 local=/dcc-awareness-cn.heytapmobi.com/
 local=/iot-earbuds-cn.heytapmobi.com/

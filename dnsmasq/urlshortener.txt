@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 23 Sep 2026 07:40 UTC
-# Version: 2026.0923.0740.54
+# Last modified: 30 Sep 2026 07:42 UTC
+# Version: 2026.0930.0742.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9981
+# Number of entries: 9982
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -671,6 +671,7 @@ local=/switchyio-advanced-url-shortener.en.softonic.com/
 local=/go.sony.tw/
 local=/go.sparkerlink.com/
 local=/link.spirofly.com/
+local=/zmfcxr.srnky.com/
 local=/y.stadtfabrikanten.org/
 local=/io.steelcutaudio.com/
 local=/link.stluzi.ch/

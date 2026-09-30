@@ -260,6 +260,13 @@
       }
     },
     {
+      "PK": "apisnd.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "appconf.heytapdownload.com",
       "action": {
         "do": 0,
